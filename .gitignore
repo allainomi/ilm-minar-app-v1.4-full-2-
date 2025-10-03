@@ -1,0 +1,21 @@
+# Node
+node_modules/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build
+.vite/
+.DS_Store
+
+# Windows extra
+Desktop.ini
+Thumbs.db
+
+# Archives
+*.zip
+*.rar
+*.7z
